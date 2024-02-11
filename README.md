@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmitSingh-Devops
+- 👋 Hi, I’m @Amit Singh
 - 👀 I’m interested in knowledge sharing
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on projects as a freelancer
